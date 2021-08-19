@@ -2,8 +2,13 @@
   "name": "",
   "version": "",
   "description": "",
-  "scripts" : {
+  "scripts": {
     "test": "echo \"No tests yet...\""
   },
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "iconv-lite": "^0.6.3",
+    "xlsx": "^0.17.0"
+  }
 }
